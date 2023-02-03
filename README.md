@@ -4,6 +4,7 @@
 
 - [InsiderPhD](https://www.youtube.com/@InsiderPhD/videos)
 - [thehackerish](https://www.youtube.com/@thehackerish/videos)
+- [STÖK](https://www.youtube.com/@STOKfredrik/videos)
 
 ## YouTube PlayLists
 
@@ -23,3 +24,8 @@
 ## Tools
 
 [Burp Suite](https://portswigger.net/burp/communitydownload)
+
+## Other
+
+- [OWASP](https://owasp.org/)
+- 
