@@ -10,6 +10,15 @@
 - [Bug Bounty Reports Explained](https://www.youtube.com/@BugBountyReportsExplained/)
 - [NahamSec](https://www.youtube.com/@NahamSec/)
 - [Rana Khalil](https://www.youtube.com/@RanaKhalil101/)
+- https://www.youtube.com/@_JohnHammond/featured
+- https://www.youtube.com/@Tib3rius/featured
+- https://www.youtube.com/@HackingSimplifiedAS/videos
+- https://www.youtube.com/@LiveOverflow/videos
+- https://www.youtube.com/@HackerSploit/videos
+- https://www.youtube.com/@TheXSSrat/videos
+- https://www.youtube.com/@c0nd4/featured
+- https://www.youtube.com/@TCMSecurityAcademy/videos
+- https://www.youtube.com/@_CryptoCat/videos
 
 ## YouTube PlayLists
 
@@ -20,6 +29,8 @@
 - [Beginner to Advanced Bug Bounty Hunting Course](https://www.youtube.com/watch?v=Rp69edBmFFo)
 
 ## Articles
+
+- https://blog.intigriti.com/2021/12/31/top-20-bug-bounty-youtube-channels-to-follow-in-2021/?cn-reloaded=1&cn-reloaded=1
 
 ## Learning Sites
 
