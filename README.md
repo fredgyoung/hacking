@@ -31,6 +31,7 @@
 - https://dojo.pwn.college/
 - https://www.hackthissite.org
 - https://www.w4rri0r.com/
+- https://www.roppers.org/courses/ctf
 
 ## Bug Bounties
 
@@ -45,6 +46,21 @@
 ## CTFs - Capture the Flag
 
 - https://ctftime.org/
+- https://echoctf.red
+- https://overthewire.org
+- https://ctflearn.com/
+- https://picoctf.org/
+- https://promptriddle.com/
+- https://cryptohack.org/
+- https://defendtheweb.net
+- https://www.root-me.org
+- http://www.hacker.org/
+- https://pwnable.tw/
+- https://ringzer0ctf.com
+- https://247ctf.com
+- https://www.hackergateway.com/
+- https://ctf101.org/
+- 
 
 ## Tools
 
@@ -54,4 +70,3 @@
 ## Other
 
 - [OWASP](https://owasp.org/)
-- 
