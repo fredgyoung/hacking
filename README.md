@@ -1,5 +1,18 @@
 # Resources for Hacking and Bug Bounties
 
+## Vulnerability Databases
+
+- https://www.cisa.gov/known-exploited-vulnerabilities-catalog
+- https://vuldb.com/
+- https://www.rapid7.com/db/
+- https://www.cvedetails.com/
+- https://www.exploit-db.com/
+- https://cve.mitre.org/
+- https://cxsecurity.com/wlb/
+- https://packetstormsecurity.com/files/tags/exploit/
+- https://www.exploit-db.com/google-hacking-database
+- https://www.vulnerability-lab.com/index.php
+
 ## YouTube Channels
 
 - [InsiderPhD](https://www.youtube.com/@InsiderPhD/)
