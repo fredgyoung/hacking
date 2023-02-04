@@ -35,13 +35,13 @@
 
 ## Bug Bounties
 
-- []https://hackerone.com/opportunities/all
-- []https://www.intigriti.com/
-- []https://www.bugbountyhunter.com/
-- []https://www.bugcrowd.com/bug-bounty-list/
-- []https://www.guru99.com/bug-bounty-programs.html
-- []https://www.vpnmentor.com/blog/the-complete-list-of-bug-bounty-programs/
-- []https://www.w4rri0r.com/bug-bounty-programs/280-where-are-you-bug-hunters.html
+- [Hacker One](https://hackerone.com/opportunities/all)
+- [Intigriti](https://www.intigriti.com/)
+- [Bug Bounty Hunter](https://www.bugbountyhunter.com/)
+- [Bug Crowd](https://www.bugcrowd.com/bug-bounty-list/)
+- [Guru 99](https://www.guru99.com/bug-bounty-programs.html)
+- [VPN Mentor](https://www.vpnmentor.com/blog/the-complete-list-of-bug-bounty-programs/)
+- [w4rri0r](https://www.w4rri0r.com/bug-bounty-programs/280-where-are-you-bug-hunters.html)
 
 ## CTFs - Capture the Flag
 
