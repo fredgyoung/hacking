@@ -2,13 +2,14 @@
 
 ## YouTube Channels
 
-- [InsiderPhD](https://www.youtube.com/@InsiderPhD/videos)
-- [thehackerish](https://www.youtube.com/@thehackerish/videos)
-- [STÖK](https://www.youtube.com/@STOKfredrik/videos)
-- [PhD Security](https://www.youtube.com/@phd_security/videos)
-- [HackerOne](https://www.youtube.com/@HackerOneTV/videos)
-- [Bug Bounty Reports Explained](https://www.youtube.com/@BugBountyReportsExplained/videos)
-- [NahamSec](https://www.youtube.com/@NahamSec/videos)
+- [InsiderPhD](https://www.youtube.com/@InsiderPhD/)
+- [thehackerish](https://www.youtube.com/@thehackerish/)
+- [STÖK](https://www.youtube.com/@STOKfredrik/)
+- [PhD Security](https://www.youtube.com/@phd_security/)
+- [HackerOne](https://www.youtube.com/@HackerOneTV/)
+- [Bug Bounty Reports Explained](https://www.youtube.com/@BugBountyReportsExplained/)
+- [NahamSec](https://www.youtube.com/@NahamSec/)
+- [Rana Khalil](https://www.youtube.com/@RanaKhalil101/)
 
 ## YouTube PlayLists
 
