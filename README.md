@@ -43,7 +43,7 @@
 
 ## Articles
 
-- https://blog.intigriti.com/2021/12/31/top-20-bug-bounty-youtube-channels-to-follow-in-2021/?cn-reloaded=1&cn-reloaded=1
+- [top 20 bug bounty youtube channels to follow in 2021](https://blog.intigriti.com/2021/12/31/top-20-bug-bounty-youtube-channels-to-follow-in-2021/?cn-reloaded=1&cn-reloaded=1)
 
 ## Learning Sites
 
