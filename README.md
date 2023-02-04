@@ -5,10 +5,17 @@
 - [InsiderPhD](https://www.youtube.com/@InsiderPhD/videos)
 - [thehackerish](https://www.youtube.com/@thehackerish/videos)
 - [STÖK](https://www.youtube.com/@STOKfredrik/videos)
+- [PhD Security](https://www.youtube.com/@phd_security/videos)
+- [HackerOne](https://www.youtube.com/@HackerOneTV/videos)
+- [Bug Bounty Reports Explained](https://www.youtube.com/@BugBountyReportsExplained/videos)
 
 ## YouTube PlayLists
 
 - [Finding Your First Bug](https://www.youtube.com/playlist?list=PLbyncTkpno5FZQ3ZgpHj1BdQ7XHwfvO1w)
+
+## YouTube Videos
+
+- [Beginner to Advanced Bug Bounty Hunting Course](https://www.youtube.com/watch?v=Rp69edBmFFo)
 
 ## Articles
 
