@@ -27,39 +27,39 @@
 - [Hacksplaining](https://www.hacksplaining.com/) - Free lessons.
 - [Hack the Box](https://app.hackthebox.com/home) - Labs and learning academy. Free and subscription ($14/month).
 - [Bug Crowd](https://www.bugcrowd.com/)
-- https://www.hacker101.com/
-- https://dojo.pwn.college/
-- https://www.hackthissite.org
-- https://www.w4rri0r.com/
-- https://www.roppers.org/courses/ctf
+- [Hacker 101](https://www.hacker101.com/)
+- [pwn.college](https://dojo.pwn.college/)
+- [Hack this Site](https://www.hackthissite.org)
+- [w4rri0r](https://www.w4rri0r.com/)
+- [Roppers](https://www.roppers.org/courses/ctf)
 
 ## Bug Bounties
 
-- https://hackerone.com/opportunities/all
-- https://www.intigriti.com/
-- https://www.bugbountyhunter.com/
-- https://www.bugcrowd.com/bug-bounty-list/
-- https://www.guru99.com/bug-bounty-programs.html
-- https://www.vpnmentor.com/blog/the-complete-list-of-bug-bounty-programs/
-- https://www.w4rri0r.com/bug-bounty-programs/280-where-are-you-bug-hunters.html
+- []https://hackerone.com/opportunities/all
+- []https://www.intigriti.com/
+- []https://www.bugbountyhunter.com/
+- []https://www.bugcrowd.com/bug-bounty-list/
+- []https://www.guru99.com/bug-bounty-programs.html
+- []https://www.vpnmentor.com/blog/the-complete-list-of-bug-bounty-programs/
+- []https://www.w4rri0r.com/bug-bounty-programs/280-where-are-you-bug-hunters.html
 
 ## CTFs - Capture the Flag
 
-- https://ctftime.org/
-- https://echoctf.red
-- https://overthewire.org
-- https://ctflearn.com/
-- https://picoctf.org/
-- https://promptriddle.com/
-- https://cryptohack.org/
-- https://defendtheweb.net
-- https://www.root-me.org
-- http://www.hacker.org/
-- https://pwnable.tw/
-- https://ringzer0ctf.com
-- https://247ctf.com
-- https://www.hackergateway.com/
-- https://ctf101.org/
+- [CTF Time](https://ctftime.org/)
+- [Echo CTF](https://echoctf.red)
+- [Over the Wire](https://overthewire.org)
+- [CTF Learn](https://ctflearn.com/)
+- [Pico CTF](https://picoctf.org/)
+- [Prompt Riddle](https://promptriddle.com/)
+- [Crypto Hack](https://cryptohack.org/)
+- [Defend the Web](https://defendtheweb.net)
+- [Root-Me](https://www.root-me.org)
+- [Hacker](http://www.hacker.org/)
+- [pwnable](https://pwnable.tw/)
+- [ringzer0 CTF](https://ringzer0ctf.com)
+- [247 CTF](https://247ctf.com)
+- [Hacker Gateway](https://www.hackergateway.com/)
+- [CTF 101](https://ctf101.org/)
 - 
 
 ## Tools
