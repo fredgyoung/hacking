@@ -23,15 +23,15 @@
 - [Bug Bounty Reports Explained](https://www.youtube.com/@BugBountyReportsExplained/)
 - [NahamSec](https://www.youtube.com/@NahamSec/)
 - [Rana Khalil](https://www.youtube.com/@RanaKhalil101/)
-- https://www.youtube.com/@_JohnHammond/featured
-- https://www.youtube.com/@Tib3rius/featured
-- https://www.youtube.com/@HackingSimplifiedAS/videos
-- https://www.youtube.com/@LiveOverflow/videos
-- https://www.youtube.com/@HackerSploit/videos
-- https://www.youtube.com/@TheXSSrat/videos
-- https://www.youtube.com/@c0nd4/featured
-- https://www.youtube.com/@TCMSecurityAcademy/videos
-- https://www.youtube.com/@_CryptoCat/videos
+- [John Hammond](https://www.youtube.com/@_JohnHammond/)
+- [Tib3rius](https://www.youtube.com/@Tib3rius/)
+- [HackingSimplifiedAS](https://www.youtube.com/@HackingSimplifiedAS/)
+- [LiveOverflow](https://www.youtube.com/@LiveOverflow/)
+- [HackerSploit](https://www.youtube.com/@HackerSploit/)
+- [TheXSSrat](https://www.youtube.com/@TheXSSrat/)
+- [c0nd4](https://www.youtube.com/@c0nd4/)
+- [TCMSecurityAcademy](https://www.youtube.com/@TCMSecurityAcademy/)
+- [_CryptoCat](https://www.youtube.com/@_CryptoCat/)
 
 ## YouTube PlayLists
 
